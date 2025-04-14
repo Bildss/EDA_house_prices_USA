@@ -7,3 +7,8 @@ python-dotenv==1.0.0
 psycopg2-binary #==2.9.7
 SQLAlchemy #==2.0.15
 missingno==0.5.2
+kaleido==0.2.1
+area == 1.1.1
+geojson == 3.0.2
+plotly==5.15.0
+json == 2.0.9
